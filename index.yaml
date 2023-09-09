@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  salil-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-09-09T16:39:35.091627-05:00"
+    description: A Helm chart for deploying a sample python based app in kubernetes
+    digest: 1532f7a3d654354a77d87964a7af9c46aa834f3698ded94085fd22e5daa28560
+    maintainers:
+    - email: sraghunandanan@gmail.com
+      name: salil raghunandanan
+    name: salil-app
+    type: application
+    urls:
+    - https://github.com/salilraghu/salil-helm-charts/salil-app-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-09-09T16:39:35.090119-05:00"

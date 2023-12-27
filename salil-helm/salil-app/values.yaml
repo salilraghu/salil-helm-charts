@@ -9,7 +9,7 @@ image:
   repository: salilr/study_app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v2"
+  tag: "v54"
 
 imagePullSecrets: 
   - name: dockerhubsalil
